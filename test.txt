@@ -2,4 +2,4 @@ Es una prueba para git commands.
 
 nueva linea agregada.
 
-Bueno aca agregamos un texto nuevo.
+Bueno aca agregamos un texto nuevo. No agregamos linea nueva pero si texto.
